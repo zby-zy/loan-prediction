@@ -1,10 +1,7 @@
 # Loan Prediciton
-It’s a classification problem , given information about the application we have to predict whether the they’ll be to pay the loan or not.
-
-We’ll start by exploratory data analysis , then preprocessing , and finally we’ll be testing different models such as Logistic regression and decision trees.
+It’s a classification problem, given information about the application we have to predict whether the they’ll be to pay the loan or not.
 
 The data consists of the following rows:
-
 <pre>
 Loan_ID: Unique Loan ID
 Gender: Male/Female
