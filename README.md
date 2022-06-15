@@ -3,19 +3,19 @@ It’s a classification problem, given information about the application we have
 
 The data consists of the following rows:
 <pre>
-Loan_ID: Unique Loan ID
+Loan ID: Unique Loan ID
 Gender: Male/Female
 Married Status: Yes/No
 Dependents: Number of dependents 
 Education: Applicant Education (Graduate/Not Graduate)
-Self_Employed : Yes/No
-ApplicantIncome : Applicant income
-CoapplicantIncome : Coapplicant income
-LoanAmount : Loan amount in thousands of dollars
-Loan_Amount_Term : Term of loan in months
-Credit_History : credit history meets guidelines yes or no
-Property_Area : Urban/Semi Urban/Rural
-Loan_Status : Loan approved (Yes/No) this is the target variable
+Self Employed: Yes/No
+ApplicantIncome: Applicant Income
+Coapplicant Income: Coapplicant Income
+Loan Amount: Loan amount in thousands of dollars
+Loan Amount Term: Term of loan in months
+Credit History: credit history meets guidelines yes or no
+Property Area: Urban/Semi Urban/Rural
+Loan Status: Loan approved (Yes/No) this is the target variable
 </pre>
 
 ## App
