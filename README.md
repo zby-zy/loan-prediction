@@ -19,6 +19,8 @@ Loan Status: Loan approved (Yes/No) this is the target variable
 </pre>
 
 ## App
+### Language 
+* Python
 ### Framework
 * Flask
 ### How to install Flask
